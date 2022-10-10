@@ -1,7 +1,8 @@
 
 # Customer Segmentation using RFM Analysis
 
-<img src='2.jpg'>
+<img src='![2](https://user-images.githubusercontent.com/109516688/194798970-cc53b3d7-7cd9-44a6-9d50-b448c2927553.jpg)
+'>
 
 In this project We segmented our customers using RFM Analysis.
 
@@ -15,7 +16,5 @@ RFM stands for Recency,Frequency and Monetary
 **Monetary**: Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time. Big spenders should usually be treated differently than customers who spend little. Looking at monetary divided by frequency indicates the average purchase amount – an important secondary factor to consider when segmenting customers.
 
 
-#### Linkedin  : https://www.linkedin.com/in/ugur-savci/
+#### Linkedin  : https://www.linkedin.com/in/makrufkausar/
 
-
-#### Medium    : https://medium.com/@ugursavci
