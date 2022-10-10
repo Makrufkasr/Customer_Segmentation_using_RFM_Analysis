@@ -5,9 +5,9 @@
 
 In this project We segmented our customers using RFM Analysis.
 
-* [Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail).
 RFM stands for Recency,Frequency and Monetary
 
+* [Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail).
 
 **Recency**: How much time has elapsed since a customer’s last activity or transaction with the brand? Activity is usually a purchase, although variations are sometimes used, e.g., the last visit to a website or use of a mobile app. In most cases, the more recently a customer has interacted or transacted with a brand, the more likely that customer will be responsive to communications from the brand.
 
