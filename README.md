@@ -4,7 +4,7 @@
 ![2](https://user-images.githubusercontent.com/109516688/194799117-c9766bd6-6750-4312-8172-1b0196f56f5a.jpg)
 
 In this project We segmented our customers using RFM Analysis.
-
+dataset['https://archive.ics.uci.edu/ml/datasets/online+retail']
 RFM stands for Recency,Frequency and Monetary
 
 
